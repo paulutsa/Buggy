@@ -1,6 +1,6 @@
 def calculate_total(price, quantity):
     total = price * quantity
-    return totla
+    return total
 
 price = 5
 quantity = 3
